@@ -1,0 +1,13 @@
+one:
+  id: 1
+  first_name: Arnaud
+  last_name: Jeanroch
+  email: arnaud@jeanroch.fr
+  password_digest: <%= BCrypt::Password.create('123123') %>
+
+two:
+  id: 2
+  first_name: Thomas
+  last_name: David
+  email: thomas@david.es
+  password_digest: <%= BCrypt::Password.create('This a pretty long password') %>

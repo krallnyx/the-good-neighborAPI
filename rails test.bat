@@ -1,0 +1,2 @@
+call rails test
+pause
