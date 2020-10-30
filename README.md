@@ -1,24 +1,13 @@
-# README
+# API (BackEnd) for The Good Neighbor project
+This project should be used with the The-Good-Neighbor project (which is it's FrontEnd in React).
+It's written as a Ruby on Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Technicals details
+* Ruby version 2.6.6
+* Rails 6.0.3
+* sqlite3
+* jwt
+* activestorage-validator
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Configuration
+To launch this app, simply launch "rails server" or the file "RailS.bat" on Windows You can also tun the test set via "rails test"
