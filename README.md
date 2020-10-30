@@ -13,4 +13,4 @@ It's written as a Ruby on Rails API
 * activestorage-validator
 
 ### Configuration
-To launch this app, simply launch "rails server" or the file "RailS.bat" on Windows You can also tun the test set via "rails test"
+To launch this app, install the gems via "bundle install" then simply launch "rails server" or the file "RailS.bat" on Windows You can also tun the test set via "rails test"
