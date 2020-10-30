@@ -1,5 +1,8 @@
 # API (BackEnd) for The Good Neighbor project
 This project should be used with the The-Good-Neighbor project (which is it's FrontEnd in React).
+<br />
+<a href="https://github.com/krallnyx/the-good-neighbor"><strong>This is the BackEnd only, the FrontEnd is in this repo, in React</strong></a>
+<br />
 It's written as a Ruby on Rails API
 
 ## Technicals details
